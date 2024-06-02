@@ -1,0 +1,6 @@
+.venv/
+events.**
+**.zip
+**.json
+**.png
+**.mp4
